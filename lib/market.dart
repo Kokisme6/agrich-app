@@ -1,6 +1,6 @@
-import 'package:agriwealth/activity.dart';
-import 'package:agriwealth/cart.dart';
-import 'package:agriwealth/productdetails.dart';
+import 'package:agrich/activity.dart';
+import 'package:agrich/cart.dart';
+import 'package:agrich/productdetails.dart';
 import 'package:flutter/material.dart';
 
 class MarketplacePage extends StatefulWidget {
