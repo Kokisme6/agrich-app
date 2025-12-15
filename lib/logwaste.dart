@@ -1,4 +1,4 @@
-import 'package:agriwealth/activity.dart';
+import 'package:agrich/activity.dart';
 import 'package:flutter/material.dart';
 
 class WasteTrackerPage extends StatefulWidget {
