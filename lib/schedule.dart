@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
-import 'package:agriwealth/logwaste.dart';
-import 'package:agriwealth/map.dart';
+import 'package:agrich/logwaste.dart';
+import 'package:agrich/map.dart';
 
 class SchedulePickupPage extends StatefulWidget {
   final Map<String, String>? wasteEntry;
