@@ -1,12 +1,12 @@
-import 'package:agriwealth/activity.dart';
-import 'package:agriwealth/forum.dart';
-import 'package:agriwealth/location_settings.dart';
-import 'package:agriwealth/login.dart';
-import 'package:agriwealth/notifications.dart';
-import 'package:agriwealth/play.dart';
-import 'package:agriwealth/profile.dart';
-import 'package:agriwealth/schedule.dart'; 
-import 'package:agriwealth/tips.dart'; 
+import 'package:agrich/activity.dart';
+import 'package:agrich/forum.dart';
+import 'package:agrich/location_settings.dart';
+import 'package:agrich/login.dart';
+import 'package:agrich/notifications.dart';
+import 'package:agrich/play.dart';
+import 'package:agrich/profile.dart';
+import 'package:agrich/schedule.dart'; 
+import 'package:agrich/tips.dart'; 
 import 'package:firebase_auth/firebase_auth.dart';
 import 'package:flutter/material.dart';
 
