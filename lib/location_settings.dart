@@ -1,4 +1,4 @@
-import 'package:agriwealth/map.dart';
+import 'package:agrich/map.dart';
 import 'package:flutter/material.dart';
 
 class LocationSettingsPage extends StatefulWidget {
