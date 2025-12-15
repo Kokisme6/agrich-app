@@ -1,9 +1,9 @@
 import 'package:agriwealth/schedule.dart';
 import 'package:flutter/material.dart';
-import 'package:agriwealth/homepage.dart';
-import 'package:agriwealth/logwaste.dart';
-import 'package:agriwealth/market.dart';
-import 'package:agriwealth/map.dart';
+import 'package:agrich/homepage.dart';
+import 'package:agrich/logwaste.dart';
+import 'package:agrich/market.dart';
+import 'package:agrich/map.dart';
 
 class MainNavigationPage extends StatefulWidget {
   const MainNavigationPage({super.key});
