@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:agriwealth/cart.dart'; 
+import 'package:agrich/cart.dart'; 
 
 class ProductDetailsPage extends StatefulWidget {
   final Map<String, dynamic> product;
