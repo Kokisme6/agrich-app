@@ -45,7 +45,6 @@ This is the main screen users see upon logging in. It offers a quick overview of
 
 The application uses Google Maps to pinpoint the exact location of waste for pickup and allows farmers to track their collector in real-time.
 
-  <img width="617" height="1280" alt="Screenshot 2025-12-15 140321-Photoroom" src="https://github.com/user-attachments/assets/3af9b950-7fa8-4607-8114-09ff89876024" />
   <img src="https://github.com/user-attachments/assets/3af9b950-7fa8-4607-8114-09ff89876024" alt="Map Screenshot" width="200"/>
 
 
@@ -53,17 +52,17 @@ The application uses Google Maps to pinpoint the exact location of waste for pic
 
 The step-by-step process for logging waste and coordinating a scheduled collection with the nearest available collector.
 
-  * **Schedule Pickup Flow:** Interface for specifying waste type, quantity, date, and time for collection.
+ <img src="https://github.com/user-attachments/assets/f7327370-5a33-4c9a-8a67-aefcd2226431" alt="Pickup Screenshot" width="200"/>
 
-    ****
 
 ### 4\. Marketplace (E-commerce)
 
 A dedicated section for buying and selling valuable agricultural waste byproducts (e.g., specific residues, feed materials) within the farming community.
 
-  * **Marketplace Browsing:** Viewing listings for available waste resources or posting your own items for sale.
+ <img src="https://github.com/user-attachments/assets/05f6a8de-78c5-4b31-93f7-6d30f8bd853b" alt="marketplace1" width="200"/>
+ <img src="https://github.com/user-attachments/assets/b5500c3c-ebf1-4c60-bc27-e1af6a3bd983" alt="marketplace2" width="200"/>
+ <img src="https://github.com/user-attachments/assets/67c444a8-42de-46cf-aa6f-d5a25b79d03d" alt="marketplace3" width="200"/>
 
-    ****
 
 -----
 
