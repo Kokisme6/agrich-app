@@ -36,7 +36,9 @@ Agricultural waste is often poorly tracked and inefficiently managed, leading to
 
 This is the main screen users see upon logging in. It offers a quick overview of pending pickups, recent marketplace activity, and quick access to all core features.
 
- ![Screenshot_Dashboard](https://github.com/user-attachments/assets/19f8b98b-3bb3-4200-881f-244df94a35b2)
+ ![Screenshot_Dashboard](https://github.com/user-attachments/assets/058111ab-a391-4b36-81ff-d58b9b2ce1a0)
+ 
+
 
 
 ### 2\. Maps & Geolocation Integration
