@@ -129,6 +129,3 @@ This project relies heavily on Google Firebase for its backend services. You mus
 
 We welcome contributions\! If you have suggestions for features, find a bug, or want to improve the codebase, please open an issue or submit a pull request.
 
------
-
-I believe this is exactly the format you were looking for. Is there anything else I can help you add or adjust in your README, perhaps a brief license section?
