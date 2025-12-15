@@ -45,9 +45,9 @@ This is the main screen users see upon logging in. It offers a quick overview of
 
 The application uses Google Maps to pinpoint the exact location of waste for pickup and allows farmers to track their collector in real-time.
 
-  * **Map View:** Selecting a precise pickup location and viewing nearby collectors or buyers.
+  <img width="617" height="1280" alt="Screenshot 2025-12-15 140321-Photoroom" src="https://github.com/user-attachments/assets/3af9b950-7fa8-4607-8114-09ff89876024" />
+  <img src="https://github.com/user-attachments/assets/3af9b950-7fa8-4607-8114-09ff89876024" alt="Map Screenshot" width="200"/>
 
-    ****
 
 ### 3\. Schedule Pickup
 
