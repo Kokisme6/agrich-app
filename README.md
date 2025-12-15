@@ -10,17 +10,17 @@ Features
 - **User Authentication**
   - Firebase login and registration
 -  **Waste Tracking**
-  - Log agricultural waste types and quantities
+  - Log agricultural waste types and quantity
 -  **Pickup Scheduling**
-  - Schedule waste pickups with date and time selection
+  - Schedule waate pickups with date and time
 - **E-commerce**
   - Buying and selling of valuable farm waste
 -  **Map Integration**
-  - Visualize pickup locations using map-based views
+  - Select pickup locations and track waste collectors on the map
 -  **Community Chat**
-  - In-app chat for farmers to share tips, insights, and best practices
+  - In-app chats for farmers to share tips, insights and best practices
 -  **Responsive UI**
-  - Clean and intuitive Flutter interface across devices
+  - Clean and intuitive user interface
 
 ---
 
