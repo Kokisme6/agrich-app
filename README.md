@@ -1,16 +1,65 @@
-# agriwealth
+AgriRich
 
-A new Flutter project.
+AgriRich is a crossplatform mobile application designed to help farmers manage agricultural waste efficiently while fostering collaboration and knowledge sharing within farming communities.
 
-## Getting Started
+The platform combines waste tracking, pickup scheduling, waste commerce, geolocation, and community engagement into a single, easy-to-use mobile solution.
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
+Features
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+- **User Authentication**
+  - Firebase login and registration
+-  **Waste Tracking**
+  - Log agricultural waste types and quantities
+-  **Pickup Scheduling**
+  - Schedule waste pickups with date and time selection
+- **E-commerce**
+  - Buying and selling of valuable farm waste
+-  **Map Integration**
+  - Visualize pickup locations using map-based views
+-  **Community Chat**
+  - In-app chat for farmers to share tips, insights, and best practices
+-  **Responsive UI**
+  - Clean and intuitive Flutter interface across devices
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+---
+
+Problem Statement
+
+Agricultural waste is often poorly tracked and inefficiently managed, leading to environmental harm and missed recycling opportunities.
+
+AgriWealth addresses this by providing farmers with:
+- A centralized system to record waste
+- A place to buy or sell valuable farm waste
+- Tools to coordinate pickups
+- A community space for collaboration and education
+
+---
+
+Tech Stack
+
+- **Flutter / Dart**
+- **Firebase Authentication**
+- **Cloud Firestore**
+- **Firebase Cloud Storage**
+- **Google Maps API**
+
+---
+
+Firebase Configuration
+
+This project uses Firebase as its backend.
+To run the app locally:
+
+Create a Firebase project
+
+Enable:
+- Authentication
+- Cloud Firestore
+- Cloud Storage
+
+Add your Firebase configuration files:
+- google-services.json (Android)
+- GoogleService-Info.plist (iOS)
+
+Replace placeholder values in firebase_options.dart
